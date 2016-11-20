@@ -1,0 +1,1 @@
+python GetDataFromSerial.py com3
